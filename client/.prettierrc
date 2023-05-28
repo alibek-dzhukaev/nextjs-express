@@ -1,0 +1,8 @@
+{
+  "semi": false,
+  "printWidth": 80,
+  "singleQuote": true,
+  "useTabs": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true
+}
